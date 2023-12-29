@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title='My page title',
-    page_icon=':dog:'
+    page_icon=':book:'
 
 )
 
